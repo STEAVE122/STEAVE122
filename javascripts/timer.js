@@ -15,7 +15,7 @@ setTimeout(function(){
   }
   var settimebar=setInterval(() => {
       var sold=Number(document.getElementById('countA').innerText);
-      var radnumb= getRandomInt(1, 3);
+      var radnumb= getRandomInt(2, 5);
       var z = sold+radnumb;
       // If mint Ends
       if (min >= max) z = max;
