@@ -1,7 +1,7 @@
 setTimeout(function(){
   // Retrieve data
-  var min = 59;
-  var max = 100;
+  var min = 259;
+  var max = 111;
   document.getElementById('countA').innerText=min;
   // Set Max
   document.getElementById("countB").innerHTML = max
