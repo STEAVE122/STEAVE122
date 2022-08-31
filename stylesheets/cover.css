@@ -5,7 +5,7 @@
  :root {
     --main-text-color: rgb(255, 255, 255);
     --secondary-color: rgba(0, 0, 0, 0.80);
-    --bar_grdEnd: #40c0ff;
+    --bar_grdEnd: #0af7dc;
     --bar_grdStart: rgb(0 0 0 / 0%)
 }
 
@@ -391,7 +391,7 @@ body {
    
     background: rgba(0, 0, 0, .1);
     border-radius: 20px;
-    border: 2px solid #fff;
+    border: 2px solid #0af7dc;
 }
 
 
